@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="httpMethods.ComplexDeserialization">
+      <class name="httpClient.GetCall">
         <methods>
-          <include name="jsonToPojoEmployee"/>
+          <include name="getCall"/>
         </methods>
-      </class> <!-- httpMethods.ComplexDeserialization -->
+      </class> <!-- httpClient.GetCall -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
