@@ -1,0 +1,12 @@
+{
+	"id": 123,
+	"name": "P K Shankar",
+	"permanent": true,
+	"address": {
+		"street": "El Camino Real",
+		"city": "San Jose",
+		"zipcode": 95014
+	},
+	"phoneNumbers": [998864422, 1234567890],
+	"role": "Quality analyst"
+}

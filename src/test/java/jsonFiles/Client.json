@@ -1,0 +1,47 @@
+[{
+		"client": {
+			"id": 6364,
+			"name": "7Seven7 Insurance Inc",
+			"email": "donna@7seven7ins.com",
+			"currency": {
+				"name": "United States of America, Dollars",
+				"symbol": "$"
+			},
+			"address": "941 Elm Ave. #5 ",
+			"city": "Long Beach",
+			"province": "CA",
+			"zip_code": "90813",
+			"country": "United States",
+			"full_address_with_comma": "941 Elm Ave. #5, Long Beach, CA, 90813, United States",
+			"phone": "562-556-4035",
+			"fax": "562-381-7500",
+			"custom_field_name": "listed",
+			"custom_field_value": "false",
+			"created_at": "2010-07-18T00:08:10Z",
+			"updated_at": "2010-07-21T11:04:58Z"
+		}
+	},
+	{
+		"client": {
+			"id": 6365,
+			"name": "Affinity",
+			"email": "CGregory@affinitygroup.com",
+			"address": "2575 Vista Del Mar ",
+			"city": "Ventura",
+			"province": "California",
+			"zip_code": "93001",
+			"country": "United States",
+			"full_address_with_comma": "2575 Vista Del Mar, Ventura, California, 93001, United States",
+			"phone": "(270) 901-2913",
+			"fax": null,
+			"currency": {
+				"name": "United States of America, Dollars",
+				"symbol": "$"
+			},
+			"custom_field_name": null,
+			"custom_field_value": null,
+			"created_at": "2010-07-18T00:08:10Z",
+			"updated_at": "2010-07-18T00:08:10Z"
+		}
+	}
+]
